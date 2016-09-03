@@ -14,6 +14,7 @@ including file structures and image files will be covered.
 Web design will be based on a CSS framework.
 
 ### Text Book
+
 **Authors:**   Jennifer Niederst Robbins
 **Title:**     Learning Web Design
 **Resources:** (http://www.w3schools.com/)
