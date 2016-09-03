@@ -15,9 +15,9 @@ Web design will be based on a CSS framework.
 
 ### Text Book
 
-**Authors:**   Jennifer Niederst Robbins
-**Title:**     Learning Web Design
-**Resources:** (http://www.w3schools.com/)
+* **Authors:**   Jennifer Niederst Robbins
+* **Title:**     Learning Web Design
+* **Resources:** (http://www.w3schools.com/)
 
 ### Course Outline (very tentative!)
 
