@@ -13,16 +13,34 @@ of HTML and CSS. Site publishing
 including file structures and image files will be covered.
 Web design will be based on a CSS framework.
 
-### Text Book
+### Resources
 
-* **Authors:**   Jennifer Niederst Robbins
-* **Title:**     Learning Web Design
-* **Resources:** (http://www.w3schools.com/)
+* **Text book:**   Jennifer Niederst Robbins - Learning Web Design
+  (ebook available in AUP library)
+* **Online:** (http://www.w3schools.com/),
+  (http://getbootstrap.com/css/)
 
-### Course Outline (very tentative!)
+### Course Outline and Material
 
-Week | Day | Date | Slides | Topics | HW
------------- | ------------- | ------------ | ------------- | ------------ | -------------
+#### Wed 7/92017 10:35 - 11:55
+
+##### Topics
+
+* **Administration**
+* **File systems**
+* **Text editors**
+* **HTML**
+
+
+ask what do they know about file systems and write things on board
+
+some practice together exploring the file system
+
+ask what do they know about text editors and what are they used for
+
+practice creating, opening, editing, saving
+
+ask what do they know about html
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
