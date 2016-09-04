@@ -22,25 +22,19 @@ Web design will be based on a CSS framework.
 
 ### Course Outline and Material
 
-#### Wed 7/92017 10:35 - 11:55
+1. Wed 7/9/2017
 
-##### Topics
+  * **Topics**
 
-* **Administration**
-* **File systems**
-* **Text editors**
-* **HTML**
+    * Administration
+    * File systems
+    * Text editors
+    * HTML
 
+  * **Recommended Readings**
 
-ask what do they know about file systems and write things on board
+    * Book chapter 1
 
-some practice together exploring the file system
-
-ask what do they know about text editors and what are they used for
-
-practice creating, opening, editing, saving
-
-ask what do they know about html
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
