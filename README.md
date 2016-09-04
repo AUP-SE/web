@@ -32,9 +32,11 @@ Web design will be based on a CSS framework.
     * Text editors
     * HTML
 
+  * **Exercise**
+
   * **Recommended Readings**
 
-    * Book chapter 1
+    * Book chapters 1 and 2
 
 
 ### Attendance Policy
@@ -65,8 +67,9 @@ arrangements, and especially during the Drop/Add and Exam Periods.
 
 ### Grading Policy
 * 10% midterm exam
+* 20% homework
+* 20% participation in class and attendance
 * 50% final project
-* 40% homework, participation in class and attendance
 
 ### Learning Outcome
 Students who successfully complete this course should be able to
