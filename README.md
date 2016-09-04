@@ -35,7 +35,7 @@ Web design will be based on a CSS framework.
 
   * **Exercise**
 
-  * **Recommended Readings**
+  * **Recommended Reading**
 
     * Book chapters 1 and 2
 
