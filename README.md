@@ -17,8 +17,9 @@ Web design will be based on a CSS framework.
 
 * **Text book:**   Jennifer Niederst Robbins - Learning Web Design
   (ebook available in AUP library)
-* **Online:** (http://www.w3schools.com/),
-  (http://getbootstrap.com/css/)
+* **Online:**
+  * http://www.w3schools.com/
+  * http://getbootstrap.com/css
 
 ### Course Outline and Material
 
