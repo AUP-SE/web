@@ -23,14 +23,15 @@ Web design will be based on a CSS framework.
 
 ### Course Outline and Material
 
-1. Wed 7/9/2017
+1. 7/9/2016
 
   * **Topics**
 
     * Administration
     * File systems
     * Text editors
-    * HTML
+    * HTML Intro
+    * Basic Tags
 
   * **Exercise**
 
