@@ -34,14 +34,6 @@ Web design will be based on a CSS framework.
     * Text editors
     * HTML Intro
     * Basic Tags
-      * html
-      * body
-      * head
-      * title
-      * p
-      * em
-      * hr
-      * br
 
   * **Exercise**
 
