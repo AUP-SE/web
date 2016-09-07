@@ -34,13 +34,36 @@ Web design will be based on a CSS framework.
     * Text editors
     * HTML Intro
     * Basic Tags
+      * <html>
+      * <body>
+      * <head>
+      * <title>
+      * <p>
+      * <em>
+      * <hr/>
+      * <br/>
 
   * **Exercise**
+
+    * Modify the page to fit your profile, add your picutre.
 
   * **Recommended Reading**
 
     * Book chapters 1 and 2
 
+2. 14/9/2016
+
+  * **Topics**
+
+    * Making your website public
+    * More Tags
+    * Attributes
+
+  * **Exercise**
+
+  * **Recommended Reading**
+
+    * Book chapters 4 and 5
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
