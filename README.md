@@ -1,6 +1,6 @@
 ![The American University of Paris](https://upload.wikimedia.org/wikipedia/en/4/4c/American_University_of_Paris.png)
 # Syllabus Fall 2016
-## Intro to Wegb Authoring
+## Intro to Web Authoring
 
 * **Course Number:** CS1005
 * **Professor:** Tomer Libal
