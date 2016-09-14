@@ -55,15 +55,21 @@ Web design will be based on a CSS framework.
 
   * **Topics**
 
-    * Making your website public
-    * More Tags
-    * Attributes
+    * HTML CSS separation
+    * More tags: lists and footer
 
   * **Exercise**
+
+    * Repetition of last week exercise
 
   * **Recommended Reading**
 
     * Book chapters 4 and 5
+
+  * **Slides**
+
+    * [class
+      2](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&mode=designer&content_id=_225333_1&course_id=_5783_1)
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
