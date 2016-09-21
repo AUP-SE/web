@@ -71,6 +71,39 @@ Web design will be based on a CSS framework.
     * [class
       2](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&mode=designer&content_id=_225333_1&course_id=_5783_1)
 
+3. 21/9/2016
+
+  * **Topics**
+
+    * URLs
+    * Attributes
+    * More tags: images and links
+
+  * **Exercise**
+
+    * Create index.html, page1.html, page2.html and page3.html
+      * each page[123].html should contain a description of some place
+        you know
+      * index.html should contain links to the other three pages
+      * **Deadline:** 27/9/2016 via the blackboard
+
+  * **Slides**
+
+    * [class
+      3](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&mode=designer&content_id=_225782_1&course_id=_5783_1)
+
+4. 28/9/2016
+
+  * **Topics**
+
+    * Anchors
+    * Images
+    * Tables
+
+  * **Exercise**
+
+  * **Slides**
+
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
 attend ALL scheduled classes, and in case of absence, should contact
