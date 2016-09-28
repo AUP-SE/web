@@ -96,13 +96,32 @@ Web design will be based on a CSS framework.
 
   * **Topics**
 
-    * Anchors
-    * Images
-    * Tables
+    * CSS Introduction
+
+  * **Exercise**
+
+    * Try to set the class and id attributes of the different HTML elements to match the picture
+      * HTML - https://aup-se.github.io/web4/index.html
+      * CSS - https://aup-se.github.io/web4/index.css
+      * Picture - https://aup-se.github.io/web4/index.png
+
+  * **Slides**
+
+    * [class 4]
+      (https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&mode=designer&content_id=_226283_1&course_id=_5783_1)
+
+5. 5/10/2016
+
+  * **Topics**
 
   * **Exercise**
 
   * **Slides**
+
+    * class 5
+
+
+
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
