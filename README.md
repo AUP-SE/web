@@ -114,7 +114,13 @@ Web design will be based on a CSS framework.
 
   * **Topics**
 
+    * Positioning elements on a page using flexboxes
+    * Developer tools
+
   * **Exercise**
+
+    * [Exercise
+      4](https://blackboard.aup.edu/webapps/assignment/uploadAssignment?content_id=_226575_1&course_id=_5783_1&assign_group_id=&mode=cpview)
 
   * **Slides**
 
