@@ -119,12 +119,26 @@ Web design will be based on a CSS framework.
 
   * **Exercise**
 
+  * **Slides**
+
+    * [class
+      5](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&mode=designer&content_id=_226614_1&course_id=_5783_1)
+
+6. 12/10/2016
+
+  * **Topics**
+
+    * Flexboxes
+
+  * **Exercise**
+
     * [Exercise
       4](https://blackboard.aup.edu/webapps/assignment/uploadAssignment?content_id=_226575_1&course_id=_5783_1&assign_group_id=&mode=cpview)
 
   * **Slides**
 
-    * class 5
+    * class 6
+
 
 
 
