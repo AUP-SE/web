@@ -137,11 +137,18 @@ Web design will be based on a CSS framework.
 
   * **Slides**
 
-    * class 6
+    * [class
+      6](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&content_id=_226884_1&course_id=_5783_1&launch_in_new=true)
 
 
+7. 19/10/2016
 
+  * **Midterm Exam**
 
+    * HTML (known tags: links, images, div, linking style sheets, etc.)
+    * CSS (selectors, properties, inherited and cascading properties,
+      etc.)
+    * Boxifying and flexboxes
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
