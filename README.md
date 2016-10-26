@@ -150,6 +150,18 @@ Web design will be based on a CSS framework.
       etc.)
     * Boxifying and flexboxes
 
+8. 26/10/2016
+
+  * **Topics**
+    * Using Grids
+    * Creating Frameworks
+    * Using multiple Style Sheets
+    * Folder Structure
+
+  * **Slides**
+    * [class
+      7](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&mode=designer&content_id=_227471_1&course_id=_5783_1)
+
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
 attend ALL scheduled classes, and in case of absence, should contact
