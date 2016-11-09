@@ -162,6 +162,31 @@ Web design will be based on a CSS framework.
     * [class
       7](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&mode=designer&content_id=_227471_1&course_id=_5783_1)
 
+9. 9/11/2016
+
+  * **Topics**
+    * Improving the Grid
+    * Responsiveness
+    * Browser compatibility
+    * Folder Structure
+    * Projects!
+
+  * **Slides**
+    * [class
+      8](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&content_id=_227856_1&course_id=_5783_1&launch_in_new=true)
+
+10. 6/11/2016
+
+  * **Topics**
+    * Introduction to Bootstrap
+
+  * **Slides**
+    * [class
+      9]()
+
+
+
+
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
 attend ALL scheduled classes, and in case of absence, should contact
