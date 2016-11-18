@@ -175,14 +175,14 @@ Web design will be based on a CSS framework.
     * [class
       8](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&content_id=_227856_1&course_id=_5783_1&launch_in_new=true)
 
-10. 6/11/2016
+10. 16/11/2016
 
   * **Topics**
     * Introduction to Bootstrap
 
   * **Slides**
     * [class
-      9]()
+      9](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&content_id=_228207_1&course_id=_5783_1&launch_in_new=true)
 
 
 
