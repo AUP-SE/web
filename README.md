@@ -184,6 +184,27 @@ Web design will be based on a CSS framework.
     * [class
       9](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&content_id=_228207_1&course_id=_5783_1&launch_in_new=true)
 
+11. 23/11/2016
+
+  * **Topics**
+    * Bootstrap's grid
+
+  * **Slides**
+    * [class
+      10](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&content_id=_228800_1&course_id=_5783_1&launch_in_new=true)
+
+12. 30/11/2016
+
+  * **Topics**
+    * Boostrap's responsiveness
+    * Embedding video and sound
+
+  * **Slides**
+    * [class
+      11]()
+
+
+
 
 
 
