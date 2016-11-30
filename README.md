@@ -201,12 +201,16 @@ Web design will be based on a CSS framework.
 
   * **Slides**
     * [class
-      11]()
+      11](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&content_id=_229301_1&course_id=_5783_1&launch_in_new=true)
 
+12. 7/12/2016
 
+  * **Topics**
+    * Introduction to Javascript
 
-
-
+  * **Slides**
+    * [class
+      12]()
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
